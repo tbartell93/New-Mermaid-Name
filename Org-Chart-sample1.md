@@ -1,5 +1,4 @@
 # Organization Chart
-mermaid
 graph TB
 ES[Executive Sponsor]
 PD[Program Director]
